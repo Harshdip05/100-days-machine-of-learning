@@ -1,0 +1,13 @@
+# Virtual environment
+100-days-venv/
+100-days-venv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env

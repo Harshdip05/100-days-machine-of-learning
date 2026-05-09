@@ -1,0 +1,15 @@
+
+go to cmd
+
+then conda create -p 100-days-venv python=3.11 
+
+then conda activate 100-days-venv/
+
+
+add venv to gitignore before  git init
+
+
+go and create .ipynb file and choose kernel 100-days-venv
+
+
+then pip install ipykernel
