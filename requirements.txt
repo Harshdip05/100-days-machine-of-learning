@@ -3,3 +3,8 @@ numpy
 scikit-learn
 pandas
 mysql-connector-python
+matplotlib
+mlxtend    
+requests  
+openpyxl                ## for pd.read_excel
+python-dotenv          ## for .env
